@@ -6,11 +6,6 @@
 * JavaFX
 * JUnit
 
-
-## Version
-
-0.1
-
 ## Authors
 
 * **Patryk Zaniewski**
